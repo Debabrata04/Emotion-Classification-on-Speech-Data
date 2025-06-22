@@ -96,4 +96,4 @@ features:
 
 
 > "Emotion is the hidden dimension of speech - we make it measurable"  
-![Live Demo](assets/Demo_video.mp4)
+![Live Demo](assets/Demo_video.gif)
