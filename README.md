@@ -8,7 +8,7 @@
 ---
 
 # Metric
-![Metrics](assets/metrics.jpeg)
+![Metrics](assets/metrics.png)
 
 ---
 
