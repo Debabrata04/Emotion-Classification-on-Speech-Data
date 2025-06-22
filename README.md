@@ -8,7 +8,13 @@
 ---
 
 # Metric
-![Metrics](assets/metrics.png)
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/Metrics.png" width="600" alt="System Workflow">
+  <p><em>Key Metrics</em></p>
+</div>
+
 
 ---
 
