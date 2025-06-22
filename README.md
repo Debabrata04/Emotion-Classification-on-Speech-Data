@@ -3,6 +3,10 @@
 
 ---
 
+![Live Demo](assets/Demo_video.gif)
+
+---
+
 ## 🌟 Key Features  
 - **State-of-the-art** deep learning model achieving **82% accuracy**  
 - **Real-time capable** emotion detection from audio streams  
@@ -96,4 +100,4 @@ features:
 
 
 > "Emotion is the hidden dimension of speech - we make it measurable"  
-![Live Demo](assets/Demo_video.gif)
+
