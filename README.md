@@ -1,5 +1,5 @@
 # 🎤 Speech Emotion Recognition (SER) System  
-### **"Hear the Unspoken"** - Our advanced AI system detects nuanced emotional states from speech with **82% accuracy**, transforming raw audio into emotional insights. This cutting-edge solution combines deep learning with acoustic analysis to reveal the hidden emotional context in human speech.
+### **"Hear the Unspoken"** - This advanced AI system detects nuanced emotional states from speech with **82% accuracy**, transforming raw audio into emotional insights. This cutting-edge solution combines deep learning with acoustic analysis to reveal the hidden emotional context in human speech.
 
 ---
 
