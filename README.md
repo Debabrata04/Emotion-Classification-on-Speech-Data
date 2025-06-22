@@ -57,9 +57,7 @@ git clone https://github.com/yourrepo/speech-emotion-recognition.git
 # Install dependencies (Python 3.8+ required)
 pip install -r requirements.txt
 
-# Run demo prediction
-python predict.py --file sample_audio.wav
-```
+
 
 ### 🧪 Sample Output  
 ```json
@@ -73,38 +71,6 @@ python predict.py --file sample_audio.wav
   }
 }
 ```
-
----
-
-## 🏆 Why Our Solution Stands Out  
-
-✅ **Military-grade noise robustness**  
-✅ **Gender-neutral emotion detection**  
-✅ **Continuous learning capability**  
-✅ **Explainable AI diagnostics**  
-
-> "This system outperforms 3 commercial alternatives in our benchmark tests"  
-> - *Tech Review AI Magazine*
-
----
-
-## 📊 Enterprise Applications  
-
-| Industry | Use Case | Impact |
-|----------|----------|--------|
-| Call Centers | Customer Sentiment Analysis | ↑ 30% CSAT |
-| Healthcare | Mental Health Monitoring | 92% Accuracy |
-| Automotive | Driver Alert System | ↓ 40% Road Rage |
-
----
-
-## 📚 Documentation  
-
-🔗 [Full API Reference](docs/api.md)  
-🔗 [Model Card](docs/model_card.md)  
-🔗 [Ethics Guidelines](docs/ethics.md)  
-
----
 
 ## 🛠️ Customization Options  
 
@@ -130,17 +96,4 @@ features:
 
 
 > "Emotion is the hidden dimension of speech - we make it measurable"  
-
-*Last Updated: June 2024*  
-
----
-
-This version uses:  
-- Modern markdown formatting  
-- Visual hierarchy  
-- Performance badges  
-- Mermaid diagram  
-- Comparative metrics  
-- Social proof elements  
-- Clear value propositions  
-- Multiple access points to information
+![Live Demo](assets/Demovideo.mp4)
