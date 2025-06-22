@@ -34,7 +34,6 @@ graph TD
 
 ### 🏗️ Deep Neural Network  
 ```python
-# Award-winning architecture
 Sequential([
     Dense(256, activation='relu', input_shape=(n_features,)),
     BatchNormalization(),
