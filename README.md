@@ -1,4 +1,4 @@
-# 🎤 Speech Emotion Recognition (SER) System  
+# 🎤 Emotion Classification on Speech Data  
 ### **"Hear the Unspoken"** - This advanced AI system detects nuanced emotional states from speech with **82% accuracy**, transforming raw audio into emotional insights. This cutting-edge solution combines deep learning with acoustic analysis to reveal the hidden emotional context in human speech.
 
 ---
