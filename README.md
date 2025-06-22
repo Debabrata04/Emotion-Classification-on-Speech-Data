@@ -7,6 +7,11 @@
 
 ---
 
+# Metric
+![Metrics](assets/metrics.jpeg)
+
+---
+
 ## 🌟 Key Features  
 - **State-of-the-art** deep learning model achieving **82% accuracy**  
 - **Real-time capable** emotion detection from audio streams  
