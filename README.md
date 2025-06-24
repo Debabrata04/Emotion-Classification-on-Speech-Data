@@ -27,6 +27,73 @@
 
 ---
 
+## Testing Model
+To test your speech emotion recognition model using the provided script and files (`emotion_classifier.h5`, `label_encoder.pkl`, `scaler.pkl`), follow these steps:
+
+### 1. **Directory Structure Setup**
+Organize your files like this:
+```
+your_project/
+├── model/
+│   ├── emotion_classifier.h5
+│   ├── label_encoder.pkl
+│   └── scaler.pkl
+├── test_data/          # Put test audio files here
+├── test_model.py       # Save the script below as this file
+└── results/            # Will be auto-created for outputs
+```
+
+### 2. **Script Requirements**
+Install dependencies:
+```bash
+pip install tensorflow librosa scikit-learn pandas seaborn matplotlib joblib
+```
+
+### 3. **Usage Examples**
+
+#### **Test a Single Audio File**
+```bash
+python test_model.py \
+  --file test_data/your_audio.wav \
+  --vocal 1 \
+  --actual happy
+```
+- `--file`: Path to audio file (WAV format)
+- `--vocal`: `1` for speech, `2` for song
+- `--actual`: True emotion label (e.g., `happy`, `sad`)
+
+#### **Batch Test a Directory**
+```bash
+python test_model.py \
+  --dir test_data \
+  --output results
+```
+- Processes **all WAV files** in `test_data`
+- Saves results in `results/` directory
+- **Filename format must be:** `[name]-[vocal]-[emotion_label].wav`  
+  Example: `audio-1-3.wav` = Speech (vocal=1) with emotion label `3`
+
+### 4. **Key Script Modifications**
+Update these variables in the script if needed:
+```python
+# Adjust paths if artifacts are elsewhere
+MODEL_DIR = 'model'  # Path to model/scaler/encoder
+
+# Ensure these match training parameters
+SAMPLE_RATE = 22050
+DURATION = 3  # Seconds (same as training)
+```
+
+### 5. **Expected Outputs for Batch Test**
+After batch testing, check `results/` for:
+- `test_results.csv`: Raw predictions
+- `classification_report.txt`: Precision/recall metrics
+- `confusion_matrix.png`: Visual prediction errors
+- `prediction_distribution.png`: Class frequency
+
+---
+
+
 ## 🚀 Performance Highlights  
 
 
