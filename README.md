@@ -27,7 +27,7 @@
 ---
 
 ## 🌟 Key Features  
-- **State-of-the-art** deep learning model achieving **82% accuracy**  
+- **State-of-the-art** deep learning model achieving **81% accuracy**  
 - **Real-time capable** emotion detection from audio streams  
 - **8 emotion classes** (Angry, Happy, Sad, etc.) with confidence scores  
 - **Interactive visualization** of emotion probabilities and audio characteristics 
