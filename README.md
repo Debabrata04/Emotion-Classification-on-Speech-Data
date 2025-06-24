@@ -8,12 +8,20 @@
 ---
 
 # Key Metrics
-## 📸 Screenshot
-
-<div align="center">
-  <img src="assets/Metrics.png" width="600" alt="System Workflow">
-  
-</div>
+| Class        | Precision | Recall | F1-Score | Support |  Accuracy |
+|:-------------|----------:|-------:|---------:|--------:| ---------:|
+| angry        | 0.89      | 0.84   | 0.86     | 75      |  0.86     |
+| calm         | 0.73      | 0.87   | 0.79     | 75      |  0.87     |
+| disgust      | 0.77      | 0.77   | 0.77     | 39      |  0.77     |
+| fearful      | 0.82      | 0.77   | 0.79     | 75      |  0.84     |
+| happy        | 0.74      | 0.89   | 0.81     | 75      |  0.77     |
+| neutral      | 0.93      | 0.71   | 0.81     | 38      |  0.75     |
+| sad          | 0.75      | 0.65   | 0.75     | 75      |  0.73     |
+| surprised    | 0.84      | 0.79   | 0.82     | 39      |  0.79     |
+|              |           |        |          |         |           |
+| accuracy     |           |        | 0.82     | 491     |           |
+| macro avg    | 0.81      | 0.79   | 0.81     | 491     |           |
+| weighted avg | 0.80      | 0.79   | 0.83     | 491     |           |
 
 
 ---
