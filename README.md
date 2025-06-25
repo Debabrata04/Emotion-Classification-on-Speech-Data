@@ -1,5 +1,5 @@
 # 🎤 Emotion Classification on Speech Data  
-### **"Hear the Unspoken"** - This advanced AI system detects nuanced emotional states from speech with **81% accuracy**, transforming raw audio into emotional insights. This cutting-edge solution combines deep learning with acoustic analysis to reveal the hidden emotional context in human speech.
+### **"Hear the Unspoken"** - This advanced AI system detects nuanced emotional states from speech with **80% accuracy**, transforming raw audio into emotional insights. This cutting-edge solution combines deep learning with acoustic analysis to reveal the hidden emotional context in human speech.
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ## 🌟 Key Features  
-- **State-of-the-art** deep learning model achieving **81% accuracy**  
+- **State-of-the-art** deep learning model achieving **80% accuracy**  
 - **Real-time capable** emotion detection from audio streams  
 - **8 emotion classes** (Angry, Happy, Sad, etc.) with confidence scores  
 - **Interactive visualization** of emotion probabilities and audio characteristics 
