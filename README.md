@@ -142,7 +142,7 @@ Sequential([
 ### ⚡ Quick Deployment  
 ```bash
 # Clone the repository
-git clone https://github.com/yourrepo/speech-emotion-recognition.git
+[git clone https://github.com/Debabrata04/speech-emotion-recognition.git]
 
 # Install dependencies (Python 3.8+ required)
 pip install -r requirements.txt
